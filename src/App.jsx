@@ -8,7 +8,7 @@ const userData = {
   name: "Joaquin",
   lastName: "Strusiat", 
   email: "joaquinpjs@gmail.com",
-  phone: "‪+543644522173‬",
+  phone: "+543644522173",
   image: "https://avatars.githubusercontent.com/u/133779855?v=4",
   website: "github.com/joaquinstrusiat"
 }
